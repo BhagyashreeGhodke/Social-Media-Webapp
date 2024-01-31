@@ -1,0 +1,25 @@
+{
+  "name": "social-media-webapp",
+  "version": "1.0.0",
+  "description": "Social Media Webapp using HTML, CSS, Javascript, Node.js, ExpressJs, MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SocialMedia",
+    "Facebook",
+    "Instagram",
+    "Whatsapp",
+    "Telegram",
+    "SnapChat"
+  ],
+  "author": "Bhagyashree Ghodke",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongoose": "^8.1.1"
+  }
+}
